@@ -12,7 +12,7 @@ if __name__ == '__main__':
         'http://lanatula.ru/about/',
         'http://www.lanatula.ru/about/',
         'http://lanatula.ru/about1/',
-        'http://192.168.1.93/phpinfo.php',
+	#'http://192.168.1.93/phpinfo.php',
         'http://кто.рф/',
         #'https://yandex.ru/search/?text=idna что это&lr=15',
         'https://docs.python.org/3.8/library/tkinter1.html',
